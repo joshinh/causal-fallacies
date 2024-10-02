@@ -1,2 +1,5 @@
 # causal-fallacies
-Code and Data for EMNLP 2024 paper titled 'LLMs Are Prone to Fallacies in Causal Inference'
+
+EMNLP 2024 paper 'LLMs Are Prone to Fallacies in Causal Inference'
+
+Code and data will be updated soon!
